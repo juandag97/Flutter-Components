@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_components
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter-Components
+Flutter-Components
+>>>>>>> 18575539ce8e1b5212616e4683ead5edb547e574
